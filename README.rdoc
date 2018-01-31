@@ -1,0 +1,4 @@
+== Simple todo list project
+
+Серия проектов simple todo list интересна тем что все приложения интегрированы между собой. Главный проект (http://task5todo.herokuapp.com/)  написан на Ruby on rails, имеет  скромный API отвечающий на пост запросы получения информации о todo и на добавление нового todo. Все остальные приложения из  этой серии  ( https://github.com/Adrinalin4ik/Simple-todo-list--2-project--on-swift и https://github.com/Adrinalin4ik/Simple-todo-list--3-project--on-java ) умеют им пользоваться.
+
